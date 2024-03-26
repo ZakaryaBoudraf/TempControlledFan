@@ -1,6 +1,6 @@
 ﻿Name,Quantity,Component
 "U1",1," Arduino Uno R3"
-"U2",1," Temperature Sensor [TMP36]"
-"M1",1," DC Motor"
-"U3",1," H-bridge Motor Driver"
-"U5",1,"PCF8574-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"U2",1," DHT22 Temperature and Humidity Sensor"
+"M1",1," 5V 40x40mm DC Fan"
+"U3",1," L298N H-bridge Motor Driver"
+"U5",1," LCD 20 x 4 (I2C) Screen"
